@@ -121,7 +121,7 @@ Power BI Desktop
 Required Python libraries
 
 Step 1: Clone the Repository
-git clone https://github.com/YOUR-USERNAME/customer-shopping-behavior.git
+git clone https://github.com/Swami9525/Customer-Behavior-Analysis-
 cd customer-shopping-behavior
 
 Step 2: Install Python Libraries
